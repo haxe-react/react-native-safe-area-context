@@ -1,0 +1,13 @@
+{
+  "name": "react-native-safe-area-context",
+  "license": "MIT",
+  "tags": ["react", "react-native-safe-area-context", "safe-area"],
+  "classPath": "src",
+  "contributors": [
+    "serjek"
+  ],
+  "releasenote": "initial release",
+  "version": "0.0.0",
+  "dependencies": {
+  }
+}
